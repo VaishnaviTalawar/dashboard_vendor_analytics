@@ -1,4 +1,4 @@
-# Vendor Sales & Profit Analytics Dashboard (Power BI)
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/7bfb96e1-9067-4a49-a1b4-cf97a9e8abab" /># Vendor Sales & Profit Analytics Dashboard (Power BI)
 
 ## Project Overview
 
@@ -62,8 +62,7 @@ Excel / CSV – Data source and preprocessing
 ---
 
 ## Dashboard Preview
-<img width="593" height="332" alt="Vendor_analysis" src="https://github.com/user-attachments/assets/52da2523-2435-4877-85a8-ba57b7516cc5" />
-
+"C:\Users\Vaishnavi\Pictures\Screenshots\Screenshot (46).png"
 
 Files Included
 
