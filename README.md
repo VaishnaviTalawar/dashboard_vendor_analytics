@@ -62,7 +62,7 @@ Excel / CSV – Data source and preprocessing
 ---
 
 ## Dashboard Preview
-/><img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/7bfb96e1-9067-4a49-a1b4-cf97a9e8abab" 
+https://drive.google.com/file/d/179q0Yjot_OH5ZNE5PUGYhx1CY_E5lxzH/view?usp=sharing
 
 Files Included
 
