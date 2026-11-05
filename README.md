@@ -1,4 +1,4 @@
-/># Vendor Sales & Profit Analytics Dashboard (Power BI)
+# Vendor Sales & Profit Analytics Dashboard (Power BI)
 
 ## Project Overview
 
@@ -62,7 +62,7 @@ Excel / CSV – Data source and preprocessing
 ---
 
 ## Dashboard Preview
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/7bfb96e1-9067-4a49-a1b4-cf97a9e8abab" 
+/><img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/7bfb96e1-9067-4a49-a1b4-cf97a9e8abab" 
 
 Files Included
 
