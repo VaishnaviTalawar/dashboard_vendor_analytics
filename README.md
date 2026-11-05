@@ -1,13 +1,13 @@
-# 📊 Vendor Sales & Profit Analytics Dashboard (Power BI)
+# Vendor Sales & Profit Analytics Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of sales performance, profit trends, and inventory behavior across different brands and vendors.
 
 The goal of this project is to identify key drivers of revenue, evaluate profitability, and uncover patterns that can support better business decision-making.
 
 
-## 📊 Key Metrics
+## Key Metrics
 
 * **Total Revenue:** 8.50M
 * **Total Profit:** 45.44bn
@@ -15,36 +15,36 @@ The goal of this project is to identify key drivers of revenue, evaluate profita
 * **Average Profit Margin:** 5.76M
 
 
-## 📈 Dashboard Features
+## Dashboard Features
 
-### 🔹 Brand Performance Analysis
+### Brand Performance Analysis
 
 * Profit comparison across different brands
 * Identification of top-performing and low-performing brands
 
-### 🔹 Vendor Analysis
+### Vendor Analysis
 
 * Total revenue and profit comparison by vendor
 * Helps evaluate vendor contribution to overall business
 
-### 🔹 Profitability Insights
+### Profitability Insights
 
 * Profit margin comparison across brands
 * Analysis of how bulk purchasing impacts profit margin
 
-### 🔹 Sales & Inventory Analysis
+### Sales & Inventory Analysis
 
 * Relationship between units sold and inventory levels
 * Helps detect overstocking or understocking patterns
 
-### 🔹 Time-Based Trends
+### Time-Based Trends
 
 * Monthly revenue and profit trends
 * Identifies seasonal patterns and performance fluctuations
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Certain brands contribute significantly more to total profit than others
 * Vendor performance varies, with some vendors driving higher revenue and profit
@@ -54,23 +54,23 @@ The goal of this project is to identify key drivers of revenue, evaluate profita
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 Power BI – Data visualization and dashboard creation
 Excel / CSV – Data source and preprocessing
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 <img width="593" height="332" alt="Vendor_analysis" src="https://github.com/user-attachments/assets/52da2523-2435-4877-85a8-ba57b7516cc5" />
 
 
-📂 Files Included
+Files Included
 
 Sales_Analytics.pbix → Power BI dashboard file
 dashboard.png → Dashboard preview image
 
-💡 Conclusion
+Conclusion
 
 This dashboard provides actionable insights into sales, profitability, and inventory management. It can help businesses optimize vendor selection, improve inventory planning, and increase overall profitability.
 
