@@ -148,8 +148,9 @@ DIVIDE([Total Profit], [Total Revenue], 0)
 ---
 
 ## Dashboard Preview
-https://drive.google.com/file/d/179q0Yjot_OH5ZNE5PUGYhx1CY_E5lxzH/view?usp=sharing
-## 📁 Repository Structure
+[View Vendor Analysis Dashboard Screenshot](https://drive.google.com/file/d/179q0Yjot_OH5ZNE5PUGYhx1CY_E5lxzH/view?usp=sharing)
+
+## Repository Structure
 
 ```text
 Vendor-Sales-Profit-Analytics/
@@ -161,7 +162,7 @@ Vendor-Sales-Profit-Analytics/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download or clone this repository.
 2. Open `Sales_Analytics.pbix` using **Microsoft Power BI Desktop**.
@@ -171,7 +172,7 @@ Vendor-Sales-Profit-Analytics/
 
 ---
 
-## 🎯 Potential Business Applications
+## Potential Business Applications
 
 This dashboard can help businesses:
 
