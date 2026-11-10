@@ -1,6 +1,6 @@
-# 📊 Vendor Sales & Profit Analytics Dashboard — Power BI
+# Vendor Sales & Profit Analytics Dashboard — Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 The **Vendor Sales & Profit Analytics Dashboard** is an interactive Power BI dashboard designed to analyze sales performance, profitability, vendor contribution, brand performance, and inventory behavior.
 
@@ -8,7 +8,7 @@ The dashboard transforms raw sales data from Excel/CSV sources into meaningful b
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 The main objectives of this project are to:
 
@@ -22,22 +22,22 @@ The main objectives of this project are to:
 
 ---
 
-## 📈 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
-| 💰 Total Revenue | 8.50M |
-| 📦 Total Units Sold | 109K |
-| 💵 Total Profit | 45.44bn* |
-| 📊 Average Profit Margin | 5.76M* |
+| Total Revenue | 8.50M |
+| Total Units Sold | 109K |
+| Total Profit | 45.44bn* |
+| Average Profit Margin | 5.76M* |
 
 > **Note:** Profit and profit-margin figures should be validated against the underlying Revenue and Cost fields before publishing the final dashboard. The unusually large Profit value compared with Revenue may indicate a data-type or calculation issue.
 
 ---
 
-## 🔍 Dashboard Features
+## Dashboard Features
 
-### 1. 🏷️ Brand Performance Analysis
+### 1.Brand Performance Analysis
 
 The dashboard compares profitability across different brands to identify:
 
@@ -46,7 +46,7 @@ The dashboard compares profitability across different brands to identify:
 - Brands contributing significantly to overall profit
 - Differences in profitability across product categories
 
-### 2. 🏢 Vendor Analysis
+### 2.Vendor Analysis
 
 Vendor-level analysis provides insights into:
 
@@ -57,7 +57,7 @@ Vendor-level analysis provides insights into:
 
 This analysis can support better **vendor selection and purchasing decisions**.
 
-### 3. 💰 Profitability Analysis
+### 3. Profitability Analysis
 
 The dashboard evaluates:
 
@@ -70,7 +70,7 @@ The dashboard evaluates:
 
 This helps identify potential opportunities to improve profitability through better pricing and purchasing strategies.
 
-### 4. 📦 Sales & Inventory Analysis
+### 4.Sales & Inventory Analysis
 
 The dashboard analyzes the relationship between:
 
@@ -80,7 +80,7 @@ The dashboard analyzes the relationship between:
 
 The analysis can help identify potential **overstocking and understocking situations**, supporting better inventory planning.
 
-### 5. 📅 Time-Based Sales Trends
+### 5.Time-Based Sales Trends
 
 Monthly trend analysis is used to understand:
 
@@ -92,7 +92,7 @@ Monthly trend analysis is used to understand:
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 Based on the dashboard analysis:
 
@@ -104,7 +104,7 @@ Based on the dashboard analysis:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** — Dashboard development and data visualization
 - **Power Query** — Data cleaning and transformation
@@ -113,7 +113,7 @@ Based on the dashboard analysis:
 
 ---
 
-## 🧮 Key Calculations
+## Key Calculations
 
 ### Profit
 
@@ -147,17 +147,8 @@ DIVIDE([Total Profit], [Total Revenue], 0)
 
 ---
 
-## 📊 Dashboard Preview
-
-![Vendor Sales & Profit Analytics Dashboard](dashboard.png)
-
-> Place your dashboard screenshot in the root of the GitHub repository and name it `dashboard.png`.
-
-### 🔗 Power BI Dashboard / Project File
-
-[View Dashboard / Project Files](https://drive.google.com/file/d/179q0Yjot_OH5ZNE5PUGYhx1CY_E5lxzH/view?usp=sharing)
-
----
+## Dashboard Preview
+https://drive.google.com/file/d/179q0Yjot_OH5ZNE5PUGYhx1CY_E5lxzH/view?usp=sharing
 
 ## 📁 Repository Structure
 
@@ -196,7 +187,7 @@ This dashboard can help businesses:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 Potential future enhancements include:
 
@@ -211,13 +202,10 @@ Potential future enhancements include:
 
 ---
 
-## 👨‍💻 Project Purpose
+## Project Purpose
 
 This project was developed as a **Power BI data analytics portfolio project** to demonstrate practical skills in:
 
 **Data Cleaning → Data Transformation → Data Modeling → DAX → Data Visualization → Business Insights**
 
 ---
-
-⭐ If you found this project useful, feel free to star the repository!
-
